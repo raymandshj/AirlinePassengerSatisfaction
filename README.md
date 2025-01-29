@@ -16,8 +16,6 @@ This project focuses on predicting passenger satisfaction based on various facto
 
 * `data/`: Raw and cleaned data files.
 * `notebooks/`: Jupyter notebooks containing data analysis, model training, and evaluation.
-* `scripts/`: Python scripts for model training and evaluation.
-* `requirements.txt`: Dependencies for running the project.
 
 ## Installation:
 
